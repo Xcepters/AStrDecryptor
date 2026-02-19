@@ -1,4 +1,4 @@
-[ApkStringDecryptor](minecraft://?addExternalServer=192.168.1.3|192.168.1.3:19133)
+[ApkStringDecryptor](https://minecraft://?addExternalServer=192.168.1.3|192.168.1.3:19133)
 ====================
 Decrypt String in classes.dex without decompile
 
